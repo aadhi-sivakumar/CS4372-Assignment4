@@ -10,8 +10,11 @@
 3. **Upload the notebook**  
    - In Colab, click on **Upload**
    - Select the `CS4372- Assignment-4.ipynb` file from your computer
+     
+4. **Change the runtime to T4 GPU**
+   - Click **Runtime → Change runtime type → T4 GPU** from the menu bar
 
-4. **Run the cells**  
+5. **Run the cells**  
    Once the notebook loads in Colab, you can either:
    - Click the **Run (▶️)** button on the left of each cell to run them one by one, OR
    - Click **Runtime → Run all** from the menu bar to execute all cells at once
