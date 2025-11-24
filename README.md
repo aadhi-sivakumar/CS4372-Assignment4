@@ -2,14 +2,14 @@
 
 ## Instructions to Run the Code
 
-1. **Download the file** `CS4372- Assignment-4.ipynb` to your computer.
+1. **Download the file** `Transformers.ipynb` to your computer.
 
 2. **Open Google Colab**  
    Visit [https://colab.research.google.com/](https://colab.research.google.com/)
 
 3. **Upload the notebook**  
    - In Colab, click on **Upload**
-   - Select the `CS4372- Assignment-4.ipynb` file from your computer
+   - Select the `Transformers.ipynb` file from your computer
      
 4. **Change the runtime to T4 GPU**
    - Click **Runtime → Change runtime type → T4 GPU** from the menu bar
